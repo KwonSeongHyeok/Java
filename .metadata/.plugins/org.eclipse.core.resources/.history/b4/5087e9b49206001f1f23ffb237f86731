@@ -1,0 +1,10 @@
+package com.kh.variableEx;
+
+public class VaribleEx {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
